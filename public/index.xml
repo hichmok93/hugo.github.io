@@ -1,9 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hichmoki Gallery on</title><link>/</link><description>Recent content in Hichmoki Gallery on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Fashion &amp; Beauty</title><link>/fashion-beauty/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/fashion-beauty/</guid><media:content url="/fashion-beauty/IMG_0641_hu2116773390772446742.JPG" type="image/jpeg"/><description>
-&lt;img src="/fashion-beauty/IMG_0641_hu2116773390772446742.JPG" />
-&lt;p>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p></description></item><item><title>Nature</title><link>/nature/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/nature/</guid><media:content url="/nature/IMG_2084_hu14911422390965135461.JPG" type="image/jpeg"/><description>
-&lt;img src="/nature/IMG_2084_hu14911422390965135461.JPG" />
-&lt;p>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p></description></item><item><title>Art</title><link>/animals/dogs/</link><pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate><guid>/animals/dogs/</guid><media:content url="/animals/dogs/IMG_2388_hu18372686695929378215.JPG" type="image/jpeg"/><description>
-&lt;img src="/animals/dogs/IMG_2388_hu18372686695929378215.JPG" />
-&lt;p>&lt;no value>&lt;/p></description></item><item><title>Life</title><link>/animals/cats/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>/animals/cats/</guid><media:content url="/animals/cats/IMG_1013_hu9921704841009669440.JPG" type="image/jpeg"/><description>
-&lt;img src="/animals/cats/IMG_1013_hu9921704841009669440.JPG" />
-&lt;p>&lt;no value>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hichmoki Gallery on </title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Hichmoki Gallery on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion &amp; Beauty</title>
+      <link>//localhost:1313/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fashion-beauty/</guid><media:content url="//localhost:1313/fashion-beauty/IMG_0641_hu2116773390772446742.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/fashion-beauty/IMG_0641_hu2116773390772446742.JPG&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>//localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/nature/</guid><media:content url="//localhost:1313/nature/IMG_2084_hu14911422390965135461.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/nature/IMG_2084_hu14911422390965135461.JPG&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Art</title>
+      <link>//localhost:1313/animals/dogs/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/animals/dogs/</guid><media:content url="//localhost:1313/animals/dogs/IMG_2388_hu18372686695929378215.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/animals/dogs/IMG_2388_hu18372686695929378215.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Life</title>
+      <link>//localhost:1313/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/animals/cats/</guid><media:content url="//localhost:1313/animals/cats/IMG_1013_hu9921704841009669440.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/animals/cats/IMG_1013_hu9921704841009669440.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -35,7 +35,13 @@ jobs:
       - name: Download example images
         if: steps.cache-images.outputs.cache-hit != 'true'
         working-directory: ./exampleSite
-        run: ./pull-images.sh
+        run: |
+                if [ -f "./exampleSite/pull-images.sh" ]; then
+                    ./exampleSite/pull-images.sh
+                  else
+                    echo "pull-images.sh not found, skipping this step."
+                      fi
+        
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4

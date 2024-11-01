@@ -3,7 +3,7 @@ license = "MIT"
 licenselink = "https://github.com/nicokaiser/hugo-theme-gallery/blob/main/LICENSE"
 description = "A very simple and opinionated photo gallery theme for Hugo"
 homepage = "https://hichmok93.github.io/hugo.github.io/"
-demosite = "https://nicokaiser.github.io/hugo-theme-gallery/"
+demosite = "https://hichmok93.github.io/hugo.github.io/"
 tags = ["gallery", "responsive", "minimal", "dark"]
 min_version = "0.121.2"
 

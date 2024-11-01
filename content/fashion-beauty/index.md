@@ -4,7 +4,7 @@ menus: "main"
 title: Fashion & Beauty
 #type: gallery
 weight: 2
-featured_image: mina-rad-V94CguEmeos-unsplash.jpg
+featured_image: IMG_0600.JPG
 categories: ["beauty", "fashion"]
 params:
   theme: light

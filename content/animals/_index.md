@@ -1,6 +1,6 @@
 ---
 description: This is the "Animals" album. It has two sub-albums.
-featured_image: janis-ringli-UC1pzyJFyvs-unsplash.jpg
+featured_image: IMG_0829.JPG
 keywords: [Animals, Photos, Cats, Dogs]
 title: Animals
 weight: 1

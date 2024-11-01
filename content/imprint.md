@@ -7,4 +7,4 @@ menu:
     weight: 1
 ---
 
-(Put your imprint here)
+(A Photo Vieuw of My World)

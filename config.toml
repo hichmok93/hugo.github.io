@@ -1,0 +1,4 @@
+baseURL = "https://hichmok93.github.io/"
+languageCode = "en-us"
+title = "Mijn Galerij"
+theme = "hugo-photo-gallery"

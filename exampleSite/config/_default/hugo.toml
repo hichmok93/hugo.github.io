@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
 timeout = "120s"
-title = "Gallery"
+title = "Hichmoki"
 
 [params]
   defaultTheme = "dark"

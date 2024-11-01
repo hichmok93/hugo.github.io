@@ -9,6 +9,11 @@
     <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nature</title>
+      <link>//localhost:1313/content/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/content/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+    <item>
+      <title>Nature</title>
       <link>//localhost:1313/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/nature/</guid><media:content url="//localhost:1313/nature/IMG_7416_hu17229164041555067101.JPG" type="image/jpeg"/>
@@ -26,6 +31,11 @@
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
+      <title>Cats</title>
+      <link>//localhost:1313/content/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/content/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+    <item>
       <title>Dogs</title>
       <link>//localhost:1313/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
@@ -34,5 +44,10 @@
           &lt;img src=&quot;//localhost:1313/animals/dogs/IMG_7440_hu16834435370994706626.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
+    <item>
+      <title>Dogs</title>
+      <link>//localhost:1313/content/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/content/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

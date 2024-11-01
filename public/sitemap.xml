@@ -5,7 +5,14 @@
     <loc>//localhost:1313/animals/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/content/animals/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/content/fashion-beauty/</loc>
+  </url><url>
     <loc>//localhost:1313/fashion-beauty/</loc>
+  </url><url>
+    <loc>//localhost:1313/content/nature/</loc>
   </url><url>
     <loc>//localhost:1313/nature/</loc>
   </url><url>
@@ -18,7 +25,13 @@
     <loc>//localhost:1313/animals/cats/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/content/animals/cats/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/content/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/nature/</loc>
@@ -27,11 +40,20 @@
     <loc>//localhost:1313/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/content/animals/dogs/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/content/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/content/categories/animals/</loc>
   </url><url>
     <loc>//localhost:1313/categories/beauty/</loc>
   </url><url>
     <loc>//localhost:1313/categories/fashion/</loc>
+  </url><url>
+    <loc>//localhost:1313/content/imprint/</loc>
   </url><url>
     <loc>//localhost:1313/imprint/</loc>
   </url><url>

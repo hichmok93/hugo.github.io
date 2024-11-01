@@ -1,7 +1,7 @@
 ---
-date: 2023-01-12
-featured_image: milli-2l0CWTpcChI-unsplash.jpg
-title: Dogs
+date: 2024-01-12
+featured_image: IMG_2388.JPG
+title: Art
 categories: ["animals", "nature"]
 #type: gallery
 ---

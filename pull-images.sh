@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Home
-#wget --no-clobber --content-disposition --directory-prefix=content "https://unsplash.com/photos/wRuhOOaG-Z4/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content "https://unsplash.com/photos/wRuhOOaG-Z4/download?&force=true&w=1920"
 
 # Animals
 wget --no-clobber --content-disposition --directory-prefix=content/animals "https://unsplash.com/photos/UC1pzyJFyvs/download?&force=true&w=1920"
 
 # Animals/Cats
-#wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/gKXKBY-C-Dk/download?force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/gKXKBY-C-Dk/download?force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/75715CVEJhI/download?force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/mJaD10XeD7w/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/CEx86maLUSc/download?&force=true&w=1920"
@@ -27,10 +27,10 @@ wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs 
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/WX4i1Jq_o0Y/download?&force=true&w=1920"
 
 # Fashion & Beauty
-#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/FkxXePJJH5g/download?force=true&w=1920"
-#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/63obHScZWZw/download?&force=true&w=1920"
-#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/7gqnlnCTvlg/download?&force=true&w=1920"
-#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/V94CguEmeos/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/FkxXePJJH5g/download?force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/63obHScZWZw/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/7gqnlnCTvlg/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/V94CguEmeos/download?&force=true&w=1920"
 
 # Nature
 wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/ZS_XuDZmxpM/download?&force=true&w=1920"

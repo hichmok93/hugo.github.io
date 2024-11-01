@@ -4,7 +4,7 @@ menus: "main"
 title: Fashion & Beauty
 #type: gallery
 weight: 2
-featured_image: IMG_0600.JPG
+featured_image: IMG_0641.JPG
 categories: ["beauty", "fashion"]
 params:
   theme: light

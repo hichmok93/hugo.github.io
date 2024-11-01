@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Gallery on </title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Hugo Gallery on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fashion &amp; Beauty</title>
-      <link>//localhost:1313/fashion-beauty/</link>
+      <link>/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
+      <guid>/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
     <item>
       <title>Nature</title>
-      <link>//localhost:1313/nature/</link>
+      <link>/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+      <guid>/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
     <item>
       <title>Cats</title>
-      <link>//localhost:1313/animals/cats/</link>
+      <link>/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/animals/cats/</guid><media:content url="//localhost:1313/animals/cats/IMG_7517_hu7427952086398698535.JPG" type="image/jpeg"/>
+      <guid>/animals/cats/</guid><media:content url="/animals/cats/IMG_7517_hu7427952086398698535.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/animals/cats/IMG_7517_hu7427952086398698535.JPG&quot; /&gt;
+          &lt;img src=&quot;/animals/cats/IMG_7517_hu7427952086398698535.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>Dogs</title>
-      <link>//localhost:1313/animals/dogs/</link>
+      <link>/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <guid>/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

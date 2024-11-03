@@ -19,10 +19,10 @@ exiftool -ImageDescription="Brown tabby cat on white stairs by Alexander London"
 exiftool -ImageDescription="selective focus photography of orange and white cat on brown table by Amber Kipp" content/animals/cats/amber-kipp-75715CVEJhI-unsplash.jpg
 
 # Animals/Dogs
-#wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/-JQH0wr3pwI/download?&force=true&w=1920"
-#wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Xgoz6j7RJo0/download?&force=true&w=1920"
-#wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/SK6S9mJarCY/download?&force=true&w=1920"
-#wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/mJUbC0xJ-CM/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/-JQH0wr3pwI/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Xgoz6j7RJo0/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/SK6S9mJarCY/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/mJUbC0xJ-CM/download?&force=true&w=1920"
 
 # Fashion & Beauty
 #wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/FkxXePJJH5g/download?force=true&w=1920"
@@ -42,12 +42,12 @@ exiftool -ImageDescription="selective focus photography of orange and white cat 
 #wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/RuaRTaKi-D4/download?force=true&w=1920"
 
 # Private
-wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/gRknIewfaBs/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/QQ0naV2n-mg/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/_lQgFjsTgEs/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/7pYqHNp37Pg/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/6dH1__uRYtg/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/t2WImwH1Fa0/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/gRknIewfaBs/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/QQ0naV2n-mg/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/_lQgFjsTgEs/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/7pYqHNp37Pg/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/6dH1__uRYtg/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/t2WImwH1Fa0/download?force=true&w=1920"
 
 # Featured
 #wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/fcwZsjyqp0s/download?force=true&w=1920"

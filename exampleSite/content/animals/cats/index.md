@@ -1,13 +1,13 @@
 ---
 date: 2023-04-01
 featured_image: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
-title: Cats
+title: life
 #type: gallery
 sort_by: Name
 categories: ["animals", "nature"]
 resources:
   - src: alexander-london-mJaD10XeD7w-unsplash.jpg
-    title: Brown tabby cat on white stairs by Alexander London
+    title: Brown tabby cat on white stairs by Alexander Rotterdam
   - src: amber-kipp-75715CVEJhI-unsplash.jpg
     title: Selective focus photography of orange and white cat on brown table by Amber Kipp
   - src: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg

@@ -50,6 +50,6 @@ wget --no-clobber --content-disposition --directory-prefix=content/private "http
 wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/t2WImwH1Fa0/download?force=true&w=1920"
 
 # Featured
-wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/fcwZsjyqp0s/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/IFlBNNOLHUo/download?force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/pjszS6Q2g_Y/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/fcwZsjyqp0s/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/IFlBNNOLHUo/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/pjszS6Q2g_Y/download?force=true&w=1920"

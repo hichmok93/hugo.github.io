@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Home
-#wget --no-clobber --content-disposition --directory-prefix=content "https://unsplash.com/photos/wRuhOOaG-Z4/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content "https://unsplash.com/photos/wRuhOOaG-Z4/download?&force=true&w=1920"
 
 # Animals
-#wget --no-clobber --content-disposition --directory-prefix=content/animals "https://unsplash.com/photos/9tbt-S_XHv4/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals "https://unsplash.com/photos/Zxq_dEn_HKA/download?&force=true&w=1920"
 
 # Animals/Cats
 wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/gKXKBY-C-Dk/download?force=true&w=1920"

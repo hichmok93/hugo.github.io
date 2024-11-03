@@ -1,6 +1,6 @@
 ---
 description: This is the "life" album. It has two sub-albums.
-featured_image: janis-ringli-UC1pzyJFyvs-unsplash.jpg
+featured_image: 
 keywords: [Animals, Photos, life, Dogs]
 title: Animals
 weight: 1

@@ -1,6 +1,6 @@
 ---
 description: This is the "life" album. It has two sub-albums.
-featured_image: 
+featured_image: IMG20240529200735.jpg
 keywords: [Animals, Photos, life, Dogs]
 title: Animals
 weight: 1

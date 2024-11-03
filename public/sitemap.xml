@@ -27,13 +27,14 @@
     <loc>//localhost:1313/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/people/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/categories/art/</loc>
   </url><url>
     <loc>//localhost:1313/imprint/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/people/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url>

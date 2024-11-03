@@ -11,21 +11,25 @@
       <title>Animals</title>
       <link>//localhost:1313/categories/animals/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/animals/</guid><description>Categories can also have custom titles and descriptions. The description of the Animals category lives in `content/categories/animals/_index.md`.</description></item>
+      <guid>//localhost:1313/categories/animals/</guid><media:content url="//localhost:1313/categories/animals/IMG_2388_hu5400373262725284356.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/categories/animals/IMG_2388_hu5400373262725284356.JPG&quot; /&gt;
+          &lt;p&gt;Categories can also have custom titles and descriptions. The description of the Animals category lives in `content/categories/animals/_index.md`.&lt;/p&gt;
+        </description></item>
     <item>
       <title>Nature</title>
       <link>//localhost:1313/categories/nature/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/nature/</guid><description>&lt;no value&gt;</description></item>
     <item>
+      <title>People</title>
+      <link>//localhost:1313/categories/people/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/people/</guid><description>&lt;no value&gt;</description></item>
+    <item>
       <title>Art</title>
       <link>//localhost:1313/categories/art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/art/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>People</title>
-      <link>//localhost:1313/categories/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/people/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

@@ -4,8 +4,8 @@ menus: "main"
 title: People & Art
 #type: gallery
 weight: 2
-featured_image: mina-rad-V94CguEmeos-unsplash.jpg
+featured_image: 
 categories: ["People", "Art"]
 params:
-  theme: dark
+  theme: light
 ---

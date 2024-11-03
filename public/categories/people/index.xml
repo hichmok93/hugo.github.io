@@ -5,7 +5,8 @@
     <link>//localhost:1313/categories/people/</link>
     <description>Recent content in People on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/categories/people/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People &amp; Art</title>
       <link>//localhost:1313/fashion-beauty/</link>
@@ -15,5 +16,10 @@
           &lt;img src=&quot;//localhost:1313/fashion-beauty/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
           &lt;p&gt;People and Art are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
         </description></item>
+    <item>
+      <title>Europa</title>
+      <link>//localhost:1313/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

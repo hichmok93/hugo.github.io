@@ -6,17 +6,17 @@ title: life
 sort_by: Name
 categories: ["animals", "nature"]
 resources:
-  - src: 9met83Bgmvg.jpg
+  - src: Hicham-Gardeslen-9met83Bgmvg-unsplash.jpg
     title: "Majestic cat gazing through a window by New Photographer"
-  - src: 0YddxxLxLds.jpg
+  - src: Hicham-Gardeslen-0YddxxLxLds-unsplash.jpg
     title: "Close-up of a black and white cat with striking green eyes by Photographer Two"
-  - src: OXLuw_oYeVM.jpg
+  - src: Hicham-Gardeslen-OXLuw_oYeVM-unsplash.jpg
     title: "Playful cat stretching out in the sunlit garden by Photographer Three"
-  - src: Y4dcKc8UJqI.jpg
+  - src: Hicham-Gardeslen-Y4dcKc8UJqI-unsplash.jpg
     title: "Fluffy kitten resting on a cozy blanket by Photographer Four"
-  - src: uHl9FthpMm4.jpg
+  - src: Hicham-Gardeslen-uHl9FthpMm4-unsplash.jpg
     title: "Portrait of a serene tabby cat on a wooden fence by Photographer Five"
-  - src: esFif-IwjOs.jpg
+  - src: Hicham-Gardeslen-esFif-IwjOs-unsplash.jpg
     title: "Curious kitten peeking out from behind a plant by Photographer Six"
-
 ---
+

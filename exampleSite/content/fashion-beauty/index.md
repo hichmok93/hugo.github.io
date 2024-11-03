@@ -1,11 +1,11 @@
 ---
-description: Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.
+description: People and Art are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.
 menus: "main"
-title: Fashion & Beauty
+title: People & Art
 #type: gallery
 weight: 2
 featured_image: mina-rad-V94CguEmeos-unsplash.jpg
-categories: ["beauty", "fashion"]
+categories: ["People", "Art"]
 params:
-  theme: light
+  theme: dark
 ---

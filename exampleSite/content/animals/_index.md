@@ -1,7 +1,7 @@
 ---
-description: This is the "Animals" album. It has two sub-albums.
+description: This is the "life" album. It has two sub-albums.
 featured_image: janis-ringli-UC1pzyJFyvs-unsplash.jpg
-keywords: [Animals, Photos, Cats, Dogs]
+keywords: [Animals, Photos, life, Dogs]
 title: Animals
 weight: 1
 menus: "main"

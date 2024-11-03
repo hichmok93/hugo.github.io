@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Hichmoki Gallery on </title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Hichmoki Gallery on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People &amp; Art</title>
+      <link>//localhost:1313/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/fashion-beauty/</guid><description>People and Art are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
+    <item>
+      <title>Nature</title>
+      <link>//localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+    <item>
+      <title>life</title>
+      <link>//localhost:1313/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Food</title>
+      <link>//localhost:1313/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

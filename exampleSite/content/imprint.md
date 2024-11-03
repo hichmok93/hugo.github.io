@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Hello
 rss_ignore: true
 layout: page
 menu:

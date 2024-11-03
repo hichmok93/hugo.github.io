@@ -23,8 +23,8 @@ exiftool -ImageDescription="selective focus photography of orange and white cat 
 # Animals/Dogs
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/-JQH0wr3pwI/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Xgoz6j7RJo0/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Zxq_dEn_HKA/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/NfHnAMtv-oQ/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/SK6S9mJarCY/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/mJUbC0xJ-CM/download?&force=true&w=1920"
 
 # Fashion & Beauty
 wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/FkxXePJJH5g/download?force=true&w=1920"

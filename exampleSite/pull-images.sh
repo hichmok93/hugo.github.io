@@ -21,7 +21,7 @@ exiftool -ImageDescription="Brown tabby cat on white stairs by Alexander London"
 exiftool -ImageDescription="selective focus photography of orange and white cat on brown table by Amber Kipp" content/animals/cats/amber-kipp-75715CVEJhI-unsplash.jpg
 
 # Animals/Dogs
-wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/JQH0wr3pwI/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/-JQH0wr3pwI/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Xgoz6j7RJo0/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Zxq_dEn_HKA/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/NfHnAMtv-oQ/download?&force=true&w=1920"

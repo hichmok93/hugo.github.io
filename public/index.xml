@@ -11,9 +11,9 @@
       <title>People &amp; Art</title>
       <link>//localhost:1313/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fashion-beauty/</guid><media:content url="//localhost:1313/fashion-beauty/IMG_0062_hu6108281400339368542.JPG" type="image/jpeg"/>
+      <guid>//localhost:1313/fashion-beauty/</guid><media:content url="//localhost:1313/fashion-beauty/IMG_0218_hu3647144214477665911.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/fashion-beauty/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/fashion-beauty/IMG_0218_hu3647144214477665911.JPG&quot; /&gt;
           &lt;p&gt;People and Art are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
         </description></item>
     <item>
@@ -38,6 +38,10 @@
       <title>Europa</title>
       <link>//localhost:1313/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+      <guid>//localhost:1313/animals/dogs/</guid><media:content url="//localhost:1313/animals/dogs/IMG_0062_hu6108281400339368542.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/animals/dogs/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

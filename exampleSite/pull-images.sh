@@ -21,10 +21,10 @@ exiftool -ImageDescription="Brown tabby cat on white stairs by Alexander London"
 exiftool -ImageDescription="selective focus photography of orange and white cat on brown table by Amber Kipp" content/animals/cats/amber-kipp-75715CVEJhI-unsplash.jpg
 
 # Animals/Dogs
-wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Sg3XwuEpybU/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Mv9hjnEUHR4/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/2l0CWTpcChI/download?&force=true&w=1920"
-wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/WX4i1Jq_o0Y/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/JQH0wr3pwI/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Xgoz6j7RJo0/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Zxq_dEn_HKA/download?&force=true&w=1920"
+wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/NfHnAMtv-oQ/download?&force=true&w=1920"
 
 # Fashion & Beauty
 wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/FkxXePJJH5g/download?force=true&w=1920"

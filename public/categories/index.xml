@@ -22,14 +22,14 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/nature/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>People</title>
-      <link>//localhost:1313/categories/people/</link>
+      <title>Fashion</title>
+      <link>//localhost:1313/categories/fashion/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/people/</guid><description>&lt;no value&gt;</description></item>
+      <guid>//localhost:1313/categories/fashion/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Art</title>
-      <link>//localhost:1313/categories/art/</link>
+      <title>Beauty</title>
+      <link>//localhost:1313/categories/beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/art/</guid><description>&lt;no value&gt;</description></item>
+      <guid>//localhost:1313/categories/beauty/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

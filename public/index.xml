@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hichmoki Gallery on </title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Hichmoki Gallery on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People &amp; Art</title>
-      <link>//localhost:1313/fashion-beauty/</link>
+      <link>/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fashion-beauty/</guid><media:content url="//localhost:1313/fashion-beauty/IMG_0125_hu10640913877564273194.JPG" type="image/jpeg"/>
+      <guid>/fashion-beauty/</guid><media:content url="/fashion-beauty/IMG_0125_hu10640913877564273194.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/fashion-beauty/IMG_0125_hu10640913877564273194.JPG&quot; /&gt;
+          &lt;img src=&quot;/fashion-beauty/IMG_0125_hu10640913877564273194.JPG&quot; /&gt;
           &lt;p&gt;People and Art are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
         </description></item>
     <item>
       <title>Nature</title>
-      <link>//localhost:1313/nature/</link>
+      <link>/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/nature/</guid><media:content url="//localhost:1313/nature/IMG_1013_hu9921704841009669440.JPG" type="image/jpeg"/>
+      <guid>/nature/</guid><media:content url="/nature/IMG_1013_hu9921704841009669440.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/nature/IMG_1013_hu9921704841009669440.JPG&quot; /&gt;
+          &lt;img src=&quot;/nature/IMG_1013_hu9921704841009669440.JPG&quot; /&gt;
           &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
         </description></item>
     <item>
       <title>life</title>
-      <link>//localhost:1313/animals/cats/</link>
+      <link>/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/animals/cats/</guid><media:content url="//localhost:1313/animals/cats/IMG20240508161043_hu1122105981282411410.jpg" type="image/jpeg"/>
+      <guid>/animals/cats/</guid><media:content url="/animals/cats/IMG20240508161043_hu1122105981282411410.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/animals/cats/IMG20240508161043_hu1122105981282411410.jpg&quot; /&gt;
+          &lt;img src=&quot;/animals/cats/IMG20240508161043_hu1122105981282411410.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>food</title>
-      <link>//localhost:1313/animals/dogs/</link>
+      <link>/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/animals/dogs/</guid><media:content url="//localhost:1313/animals/dogs/IMG_0062_hu6108281400339368542.JPG" type="image/jpeg"/>
+      <guid>/animals/dogs/</guid><media:content url="/animals/dogs/IMG_0062_hu6108281400339368542.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/animals/dogs/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
+          &lt;img src=&quot;/animals/dogs/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

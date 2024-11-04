@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beauty on </title>
-    <link>//localhost:1313/categories/beauty/</link>
+    <link>/categories/beauty/</link>
     <description>Recent content in Beauty on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/categories/beauty/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/categories/beauty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People &amp; Art</title>
-      <link>//localhost:1313/fashion-beauty/</link>
+      <link>/fashion-beauty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fashion-beauty/</guid><media:content url="//localhost:1313/fashion-beauty/IMG_0125_hu10640913877564273194.JPG" type="image/jpeg"/>
+      <guid>/fashion-beauty/</guid><media:content url="/fashion-beauty/IMG_0125_hu10640913877564273194.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/fashion-beauty/IMG_0125_hu10640913877564273194.JPG&quot; /&gt;
+          &lt;img src=&quot;/fashion-beauty/IMG_0125_hu10640913877564273194.JPG&quot; /&gt;
           &lt;p&gt;People and Art are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
         </description></item>
   </channel>

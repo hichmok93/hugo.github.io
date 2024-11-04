@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature on </title>
-    <link>/categories/nature/</link>
+    <link>//localhost:1313/categories/nature/</link>
     <description>Recent content in Nature on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/nature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nature</title>
-      <link>/nature/</link>
+      <link>//localhost:1313/nature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/nature/</guid><media:content url="/nature/IMG_1013_hu9921704841009669440.JPG" type="image/jpeg"/>
+      <guid>//localhost:1313/nature/</guid><media:content url="//localhost:1313/nature/IMG_1013_hu9921704841009669440.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;/nature/IMG_1013_hu9921704841009669440.JPG&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/nature/IMG_1013_hu9921704841009669440.JPG&quot; /&gt;
           &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
         </description></item>
     <item>
       <title>life</title>
-      <link>/animals/cats/</link>
+      <link>//localhost:1313/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/animals/cats/</guid><media:content url="/animals/cats/IMG20240508161043_hu1122105981282411410.jpg" type="image/jpeg"/>
+      <guid>//localhost:1313/animals/cats/</guid><media:content url="//localhost:1313/animals/cats/IMG20240508161043_hu1122105981282411410.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;/animals/cats/IMG20240508161043_hu1122105981282411410.jpg&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/animals/cats/IMG20240508161043_hu1122105981282411410.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>food</title>
-      <link>/animals/dogs/</link>
+      <link>//localhost:1313/animals/dogs/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/animals/dogs/</guid><media:content url="/animals/dogs/IMG_0062_hu6108281400339368542.JPG" type="image/jpeg"/>
+      <guid>//localhost:1313/animals/dogs/</guid><media:content url="//localhost:1313/animals/dogs/IMG_0062_hu6108281400339368542.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;/animals/dogs/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/animals/dogs/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

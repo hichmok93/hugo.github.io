@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-featured_image: hicham-IMG20240529200735.jpg
+featured_image: IMG20240529200735.jpg
 title: life
 #type: gallery
 sort_by: Name

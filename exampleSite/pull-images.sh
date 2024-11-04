@@ -23,3 +23,34 @@ wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs 
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Xgoz6j7RJo0/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/SK6S9mJarCY/download?&force=true&w=1920"
 wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/mJUbC0xJ-CM/download?&force=true&w=1920"
+
+# Fashion & Beauty
+#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/FkxXePJJH5g/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/63obHScZWZw/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/7gqnlnCTvlg/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/fashion-beauty "https://unsplash.com/photos/V94CguEmeos/download?&force=true&w=1920"
+
+# Nature
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/ZS_XuDZmxpM/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/U7BG3FOT5r8/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/TUzsO59UFpo/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/P45gR9kH0SM/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/k_PbdrEs79g/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/4f8u5mFGKjw/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/f_C_lFxqThI/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/x7CyIC2jUaE/download?&force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/nature "https://unsplash.com/photos/RuaRTaKi-D4/download?force=true&w=1920"
+
+# Private
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/gRknIewfaBs/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/QQ0naV2n-mg/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/_lQgFjsTgEs/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/7pYqHNp37Pg/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/6dH1__uRYtg/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/private "https://unsplash.com/photos/t2WImwH1Fa0/download?force=true&w=1920"
+
+# Featured
+#wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/fcwZsjyqp0s/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/IFlBNNOLHUo/download?force=true&w=1920"
+#wget --no-clobber --content-disposition --directory-prefix=content/featured-album "https://unsplash.com/photos/pjszS6Q2g_Y/download?force=true&w=1920"
+

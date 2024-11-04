@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/animals/</loc>
+    <loc>//localhost:1313/animals/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/fashion-beauty/</loc>
+    <loc>//localhost:1313/fashion-beauty/</loc>
   </url><url>
-    <loc>/nature/</loc>
+    <loc>//localhost:1313/nature/</loc>
   </url><url>
-    <loc>/categories/animals/</loc>
+    <loc>//localhost:1313/categories/animals/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/animals/cats/</loc>
+    <loc>//localhost:1313/animals/cats/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/nature/</loc>
+    <loc>//localhost:1313/categories/nature/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/animals/dogs/</loc>
+    <loc>//localhost:1313/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/people/</loc>
+    <loc>//localhost:1313/categories/people/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>/categories/art/</loc>
+    <loc>//localhost:1313/categories/art/</loc>
   </url><url>
-    <loc>/imprint/</loc>
+    <loc>//localhost:1313/imprint/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

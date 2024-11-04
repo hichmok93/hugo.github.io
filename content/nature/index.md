@@ -9,5 +9,5 @@ title: Nature
 categories: ["nature"]
 weight: 3
 params:
-  theme: dark
+  theme: light
 ---

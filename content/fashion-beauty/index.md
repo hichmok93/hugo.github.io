@@ -4,8 +4,8 @@ menus: "main"
 title: People & Art
 #type: gallery
 weight: 2
-featured_image: IMG_0125.JPG
+featured_image: IMG_0125.jpg
 categories: ["People", "Art"]
 params:
-  theme: dark
+  theme: light
 ---

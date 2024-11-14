@@ -5,7 +5,7 @@ title: People & Art
 #type: gallery
 weight: 2
 featured_image: IMG_0125.jpg
-categories: ["fashion", "beauty"]
+categories: ["2", "2"]
 params:
   theme: light
 ---

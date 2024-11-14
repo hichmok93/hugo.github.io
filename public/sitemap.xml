@@ -9,30 +9,34 @@
   </url><url>
     <loc>//localhost:1313/nature/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/animals/</loc>
+    <loc>//localhost:1313/categories/1-1/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/animals/cats/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/nature/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/fashion/</loc>
+    <loc>//localhost:1313/categories/travel/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/europa/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/animals/dogs/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/1/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/2/</loc>
+  </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/beauty/</loc>
+    <loc>//localhost:1313/categories/animals/</loc>
   </url><url>
     <loc>//localhost:1313/imprint/</loc>
   </url><url>

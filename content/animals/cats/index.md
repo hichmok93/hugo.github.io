@@ -1,10 +1,10 @@
 ---
 date: 2023-04-01
-featured_image: IMG20240529200735.jpg
-title: life
+featured_image: IMG20240509155547.jpg
+title: City
 #type: gallery
 sort_by: Name
-categories: ["animals", "nature"]
+categories: ["travel", "1-1"]
 resources:
   - src: Hicham-Gardeslen-9met83Bgmvg-unsplash.jpg
     title: "Majestic cat gazing through a window by New Photographer"

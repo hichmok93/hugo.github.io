@@ -9,5 +9,5 @@ title: Nature
 categories: ["travel"]
 weight: 3
 params:
-  theme: light
+  theme: dark
 ---

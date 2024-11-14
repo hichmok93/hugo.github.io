@@ -6,7 +6,7 @@ sort_by: Name # Exif.Date
 sort_order: desc
 title: Nature
 #type: gallery
-categories: ["1"]
+categories: ["travel"]
 weight: 3
 params:
   theme: light

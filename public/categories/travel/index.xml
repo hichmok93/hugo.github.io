@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Nature</title>
+      <link>//localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/nature/</guid><media:content url="//localhost:1313/nature/IMG_1013_hu9921704841009669440.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/nature/IMG_1013_hu9921704841009669440.JPG&quot; /&gt;
+          &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
+        </description></item>
+    <item>
       <title>City</title>
       <link>//localhost:1313/animals/cats/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>

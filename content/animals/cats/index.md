@@ -4,7 +4,7 @@ featured_image: IMG20240509155547.jpg
 title: City
 #type: gallery
 sort_by: Name
-categories: ["travel", "1-1"]
+categories: ["travel", "Midden-Oosten"]
 resources:
   - src: Hicham-Gardeslen-9met83Bgmvg-unsplash.jpg
     title: "Majestic cat gazing through a window by New Photographer"

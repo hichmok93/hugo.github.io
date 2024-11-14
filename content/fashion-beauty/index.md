@@ -5,7 +5,7 @@ title: People & Art
 #type: gallery
 weight: 2
 featured_image: IMG_0125.jpg
-categories: ["2", "2"]
+categories: ["europa", "Midden-Oosten"]
 params:
   theme: light
 ---

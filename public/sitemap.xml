@@ -32,9 +32,9 @@
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/animals/</loc>
-  </url><url>
     <loc>//localhost:1313/imprint/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/animals/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url>

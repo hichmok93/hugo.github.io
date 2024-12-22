@@ -1,5 +1,5 @@
 ---
-description: An example site for hichmoki-gallery. Images from Hicham Gardeslen.
+description: Hichmoki-gallery - Images from Hicham Gardeslen.
 #lastmod: 2023-07-05
 title: Hichmoki Gallery
 featured_image:  # default: first image in this directory

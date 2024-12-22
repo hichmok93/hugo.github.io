@@ -6,30 +6,34 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World</title>
+      <link>//localhost:1313/categories/world/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/world/</guid><media:content url="//localhost:1313/categories/world/IMG_7331_hu11884666907440425902.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/categories/world/IMG_7331_hu11884666907440425902.JPG&quot; /&gt;
+          &lt;p&gt;Categories can also have custom titles and descriptions. The description of the mundo category lives in `content/categories/animals/_index.md`.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Europa</title>
+      <link>//localhost:1313/categories/europa/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/europa/</guid><media:content url="//localhost:1313/categories/europa/IMG_5659_hu688411225169790636.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/categories/europa/IMG_5659_hu688411225169790636.JPG&quot; /&gt;
+          &lt;p&gt;Categories can also have custom titles and descriptions. The description of the Animals category lives in `content/categories/europa/_index.md`.&lt;/p&gt;
+        </description></item>
     <item>
       <title>Midden-Oosten</title>
       <link>//localhost:1313/categories/midden-oosten/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/midden-oosten/</guid><description>&lt;no value&gt;</description></item>
     <item>
-      <title>Travel</title>
-      <link>//localhost:1313/categories/travel/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/travel/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Europa</title>
-      <link>//localhost:1313/categories/europa/</link>
+      <title>Kunst</title>
+      <link>//localhost:1313/categories/kunst/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/europa/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>Life</title>
-      <link>//localhost:1313/categories/animals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/animals/</guid><media:content url="//localhost:1313/categories/animals/IMG_0202_hu13792905820030349853.JPG" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/categories/animals/IMG_0202_hu13792905820030349853.JPG&quot; /&gt;
-          &lt;p&gt;Categories can also have custom titles and descriptions. The description of the Animals category lives in `content/categories/animals/_index.md`.&lt;/p&gt;
-        </description></item>
+      <guid>//localhost:1313/categories/kunst/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

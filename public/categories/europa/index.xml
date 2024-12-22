@@ -6,24 +6,60 @@
     <description>Recent content in Europa on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/europa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/europa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>People &amp; Art</title>
-      <link>//localhost:1313/fashion-beauty/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/fashion-beauty/</guid><media:content url="//localhost:1313/fashion-beauty/IMG_0125_hu10640913877564273194.JPG" type="image/jpeg"/>
+      <title>Madrid</title>
+      <link>//localhost:1313/art/madrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art/madrid/</guid><media:content url="//localhost:1313/art/madrid/IMG20240628161652_hu891481797862308640.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/fashion-beauty/IMG_0125_hu10640913877564273194.JPG&quot; /&gt;
-          &lt;p&gt;People and Art are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+          &lt;img src=&quot;//localhost:1313/art/madrid/IMG20240628161652_hu891481797862308640.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Europa</title>
-      <link>//localhost:1313/animals/dogs/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/animals/dogs/</guid><media:content url="//localhost:1313/animals/dogs/IMG_0808_hu18436267882192132801.JPG" type="image/jpeg"/>
+      <title>Le Grand Bornand</title>
+      <link>//localhost:1313/travel/le-grand-bornand/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/travel/le-grand-bornand/</guid><media:content url="//localhost:1313/travel/le-grand-bornand/IMG20230128160249_hu11701281773084713577.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/animals/dogs/IMG_0808_hu18436267882192132801.JPG&quot; /&gt;
+          &lt;img src=&quot;//localhost:1313/travel/le-grand-bornand/IMG20230128160249_hu11701281773084713577.jpg&quot; /&gt;
+          &lt;p&gt;I have to admit, The Austrians have their beers but the Swiss-Frensch Cuisine on the mountains is unmatched, cést magnifique!&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Cappa</title>
+      <link>//localhost:1313/art/cappa/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art/cappa/</guid><media:content url="//localhost:1313/art/cappa/IMG_0851_hu1204632622703096720.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/art/cappa/IMG_0851_hu1204632622703096720.JPG&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Istanbul</title>
+      <link>//localhost:1313/travel/turkije/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/travel/turkije/</guid><media:content url="//localhost:1313/travel/turkije/IMG_0062_hu6108281400339368542.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/turkije/IMG_0062_hu6108281400339368542.JPG&quot; /&gt;
+          &lt;p&gt;THe hamma&#39;s, the architecture and the mixture of people, constantinople a true gem of a city. the bridge between East and West.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Praag</title>
+      <link>//localhost:1313/travel/praag/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/travel/praag/</guid><media:content url="//localhost:1313/travel/praag/IMG20240504193431_hu9848479394503564652.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/praag/IMG20240504193431_hu9848479394503564652.jpg&quot; /&gt;
+          &lt;p&gt;A kind and sweet city for love &amp;feels....;)&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Moscow</title>
+      <link>//localhost:1313/travel/moskou/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/travel/moskou/</guid><media:content url="//localhost:1313/travel/moskou/IMG_5541_hu18072387608737852814.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/travel/moskou/IMG_5541_hu18072387608737852814.JPG&quot; /&gt;
+          &lt;p&gt;A world close to home, a people full of character. A generation waiting for change.&lt;/p&gt;
         </description></item>
   </channel>
 </rss>

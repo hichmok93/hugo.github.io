@@ -2,39 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/animals/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/art/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/fashion-beauty/</loc>
+    <loc>//localhost:1313/travel/jordan/</loc>
   </url><url>
-    <loc>//localhost:1313/nature/</loc>
+    <loc>//localhost:1313/travel/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/animals/cats/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/art/uae/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/world/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/art/italie/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/europa/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/art/madrid/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/art/city/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/midden-oosten/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/travel/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/travel/le-grand-bornand/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/europa/</loc>
+    <loc>//localhost:1313/art/cappa/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/animals/dogs/</loc>
+    <loc>//localhost:1313/travel/colombia/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/travel/israel/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/travel/turkije/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/kunst/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/travel/marokko/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/travel/praag/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/travel/moskou/</loc>
+    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/imprint/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/animals/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url>

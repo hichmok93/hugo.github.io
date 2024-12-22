@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on </title>
+    <link>//localhost:1313/art/</link>
+    <description>Recent content in Art on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>United Arab Emirates - Louvre</title>
+      <link>//localhost:1313/art/uae/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art/uae/</guid><media:content url="//localhost:1313/art/uae/IMG20240525140420_hu1907483832397811010.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/art/uae/IMG20240525140420_hu1907483832397811010.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Italy</title>
+      <link>//localhost:1313/art/italie/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art/italie/</guid><media:content url="//localhost:1313/art/italie/IMG_7331_hu11884666907440425902.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/art/italie/IMG_7331_hu11884666907440425902.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Madrid</title>
+      <link>//localhost:1313/art/madrid/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art/madrid/</guid><media:content url="//localhost:1313/art/madrid/IMG20240628161652_hu891481797862308640.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/art/madrid/IMG20240628161652_hu891481797862308640.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>City</title>
+      <link>//localhost:1313/art/city/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art/city/</guid><media:content url="//localhost:1313/art/city/IMG_0903_hu13682155077083384692.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/art/city/IMG_0903_hu13682155077083384692.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Capa</title>
+      <link>//localhost:1313/art/cappa/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/art/cappa/</guid><media:content url="//localhost:1313/art/cappa/IMG_0851_hu1204632622703096720.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/art/cappa/IMG_0851_hu1204632622703096720.JPG&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

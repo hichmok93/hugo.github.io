@@ -15,5 +15,5 @@ A view of my world photographed through the lenses of my Canon 700D.
 
                                                                             "Welcome to my World"
 
-![My World](static/images/IMG_7459.JPG)
+[Me](static/images/IMG_7459.JPG)
                                                                         

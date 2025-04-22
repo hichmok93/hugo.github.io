@@ -5,25 +5,6 @@
     <link>//localhost:1313/categories/kunst/</link>
     <description>Recent content in Kunst on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/kunst/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cappa</title>
-      <link>//localhost:1313/art/cappa/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/art/cappa/</guid><media:content url="//localhost:1313/art/cappa/IMG_0851_hu1204632622703096720.JPG" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/art/cappa/IMG_0851_hu1204632622703096720.JPG&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Praag</title>
-      <link>//localhost:1313/travel/praag/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/travel/praag/</guid><media:content url="//localhost:1313/travel/praag/IMG20240504193431_hu9848479394503564652.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/travel/praag/IMG20240504193431_hu9848479394503564652.jpg&quot; /&gt;
-          &lt;p&gt;A kind and sweet city for love &amp;feels....;)&lt;/p&gt;
-        </description></item>
+    <language>en</language><atom:link href="//localhost:1313/categories/kunst/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

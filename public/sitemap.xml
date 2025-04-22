@@ -5,13 +5,10 @@
     <loc>//localhost:1313/art/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/travel/jordan/</loc>
-  </url><url>
     <loc>//localhost:1313/travel/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/travel/jordan/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
@@ -19,46 +16,34 @@
     <loc>//localhost:1313/art/uae/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/world/</loc>
-    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/art/italie/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/europa/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/art/madrid/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/art/city/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/midden-oosten/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/travel/le-grand-bornand/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/art/cappa/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/categories/europa/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/travel/france/</loc>
+    <lastmod>2023-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/travel/colombia/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/travel/israel/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/travel/turkije/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/kunst/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/travel/marokko/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/travel/praag/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/art/cappa/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/travel/moskou/</loc>

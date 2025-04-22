@@ -7,4 +7,4 @@ menu:
     weight: 1
 ---
 
-(Welcome to my Wolrd)
+This is a demonstration site for the Hichmoki Gallery.

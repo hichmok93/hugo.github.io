@@ -5,34 +5,6 @@
     <link>//localhost:1313/categories/midden-oosten/</link>
     <description>Recent content in Midden-Oosten on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/midden-oosten/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jordan</title>
-      <link>//localhost:1313/travel/jordan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/travel/jordan/</guid><media:content url="//localhost:1313/travel/jordan/IMG20240512190313_hu185523308634611936.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/travel/jordan/IMG20240512190313_hu185523308634611936.jpg&quot; /&gt;
-          &lt;p&gt;A Arab nation The Kingdom of Jordan her people loving and kind. Within one hand their faith, and in the other the love nature and strong cultural heritage.&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>City</title>
-      <link>//localhost:1313/art/city/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/art/city/</guid><media:content url="//localhost:1313/art/city/IMG_0903_hu13682155077083384692.JPG" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/art/city/IMG_0903_hu13682155077083384692.JPG&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>Israël</title>
-      <link>//localhost:1313/travel/israel/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/travel/israel/</guid><media:content url="//localhost:1313/travel/israel/IMG20240516180737_hu7448658502407171293.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;//localhost:1313/travel/israel/IMG20240516180737_hu7448658502407171293.jpg&quot; /&gt;
-          &lt;p&gt;without Bibi it would be a better place to be. THe israili people livning their lives, just like most people in the world wanting and deserving peace. [Free Palestine]&lt;/p&gt;
-        </description></item>
+    <language>en</language><atom:link href="//localhost:1313/categories/midden-oosten/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

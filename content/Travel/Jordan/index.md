@@ -4,8 +4,8 @@ description: A Arab nation The Kingdom of Jordan her people loving and kind. Wit
 title: Jordan
 #type: gallery
 weight: 1
-featured_image: IMG20240512190313.jpg
-categories: ["Midden-Oosten", "world"]
+featured_image: IMG_20240522_191128.jpg
+categories: ["", ""]
 params:
   theme: dark
 ---
